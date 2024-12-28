@@ -6,12 +6,12 @@
 <!--
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning Data Science, Big Data & Business Analytics en el NTic master de la UCM. 
-- 👯 I’m looking to collaborate on projects related to music and AI, sustainability and social equality.
-- 🤔 I’m looking for help with tutorials to get started with python on PyCharmCE.
-- 💬 Ask me about  what you want. I will try to help if I can.
-- 📫 How to reach me: antoniotrapote@gmail.com
-- 😄 Pronouns: hi/him
+- 🌱 I’m currently pursuing a master’s degree in Data Science, Big Data, and Business Analytics at UCM (NTic program).
+- 👯 I’m eager to collaborate on projects related to music and AI, sustainability, and social equality.
+- 🤔 I aim to contribute by sharing tutorials for beginners to get started with Python using PyCharm CE.
+- 💬 Feel free to ask me anything! I’ll do my best to help if I can.
+- 📫 You can reach me at: antoniotrapote@gmail.com
+- 😄 Pronouns: He/Him
 <!--
 - ⚡ Fun fact: ...
 -->
