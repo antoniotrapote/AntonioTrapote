@@ -6,12 +6,12 @@
 <!--
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently pursuing a master’s degree in Data Science, Big Data, and Business Analytics at UCM (NTic program).
-- 👯 I’m eager to collaborate on projects related to music and AI, sustainability, and social equality.
-- 🤔 I aim to contribute by sharing tutorials for beginners to get started with Python.
-- 💬 Feel free to ask me anything! I’ll do my best to help if I can.
-- 📫 You can reach me at: antoniotrapote@gmail.com
-- 😄 Pronouns: He/Him
+- Recent graduate (MSc in Data Science, Big Data & Business Analytics – UCM, NTic program)  
+  Master’s Thesis: [Language Models for Chord Prediction](https://github.com/antoniotrapote/chord-prediction-tfm)
+- Open to collaborations in music, AI, sustainability, and social impact.
+- Reach me at: antoniotrapote@gmail.com
+- Pronouns: He/Him
+
 <!--
 - ⚡ Fun fact: ...
 -->
